@@ -4,4 +4,4 @@ Every connection, instantiation and query was made by coding.
 
 The local server ran with a <b> PostgresSQL </b> database and the cheking was made with <b> pgAdmin4 </b>.
 
-This project were created by <b> @devsuperior</b> as a OO and SQL review exercise. 
+This project was created by <b> @devsuperior</b> as a OO and SQL review exercise. 
